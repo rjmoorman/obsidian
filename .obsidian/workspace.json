@@ -8,27 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fc6e43daa2275574",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "c1314b2ad2615f34",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VUE - 3.md",
+                "file": "TypeScript.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VUE - 3.md",
+                "file": "TypeScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VUE - 3.md",
+                "file": "TypeScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VUE - 3.md"
+                "file": "TypeScript.md"
               }
             }
           }
@@ -157,10 +148,12 @@
   },
   "active": "c1314b2ad2615f34",
   "lastOpenFiles": [
-    "github_key.pub",
-    "github_key",
+    "020 Languages.md",
+    "TypeScript.md",
     "005 Working.md",
+    "000 Index.md",
     "VUE - 3.md",
-    "000 Index.md"
+    "github_key.pub",
+    "github_key"
   ]
 }
